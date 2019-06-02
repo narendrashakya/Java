@@ -7,6 +7,7 @@ public class Calculator
 	int a=100;
 	int b=800;
 	int d=60;
-	System.out.println("Sum of cal is"+(a+b+d));
+	int e=50;
+	System.out.println("Sum of cal is"+(a+b+d+e));
 	}
 }
